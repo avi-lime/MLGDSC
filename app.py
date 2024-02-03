@@ -27,14 +27,14 @@ st.title('Hello 👋This is my first WebApp in Streamlit')
 
 
 
-'''
+
 with st.sidebar:
   
   st.title('*THANKS 🙏🏻 FOR ATTENDING ML BOOTCAMP*')
   st.divider()
 
   st.write('Dear incredible students, Heartfelt gratitude for your exceptional dedication and enthusiasm during the ML Bootcamp. Your passion and hard work have made this program a resounding success. Thank you for being part of this transformative learning experience. Wishing you continued success in your journey with machine learning.')
-  st.divider()'''
+  st.divider()
   
 st.divider()
 with st.expander('Project Features'):
